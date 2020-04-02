@@ -1,5 +1,5 @@
 # Maze Q Learning
-The AI solves the maze using basic Q Learning.
+The AI solves a maze using basic Q Learning.
 
 Controls:
 '+' to speed up the agent.
