@@ -1,4 +1,4 @@
-# Q Learning Maze
+# Maze Q Learning
 The AI solves the maze using basic Q Learning.
 
 Controls:
