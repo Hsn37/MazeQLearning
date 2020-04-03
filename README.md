@@ -15,5 +15,7 @@ If you have pip installed (which is there, if you installed python from the offi
     pip install matplotlib
     pip install numpy
 
+Note: people using anaconda replace 'pip' with 'conda', and use the anaconda prompt, instead of cmd.
+
 
 The file Data.xlsx contains the Q table after the AI identified the shortest path. The file also contains a better representation of the rewards and states arrays.
