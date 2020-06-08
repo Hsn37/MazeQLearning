@@ -1,21 +1,18 @@
 # Maze Q Learning
-The AI solves a maze using basic Q Learning.
+The AI solves a maze using Q Learning.
 
-Controls:
-Use '+' to speed up the agent.
-Use '-' to slow down the agent.
-Press 'q' to print the Q table at any time during training.
+You can change the theme of the maze, customize the maze, choose the location of the goal, 
 
-
-Packages needed: pyglet, matplotlib and numpy
+Packages needed: pyglet, tkinter, numpy, matplotlib, threading, random, and time.
 
 If you have pip installed (which is there, if you installed python from the official website), install the packages using these commands in the command prompt.
 
     pip install pyglet
+    pip install tkinter
     pip install matplotlib
     pip install numpy
+    pip install threading
+    pip install random
+    pip install time
 
 Note: people using anaconda replace 'pip' with 'conda', and use the anaconda prompt, instead of cmd.
-
-
-The file Data.xlsx contains the Q table after the AI identified the shortest path. The file also contains a better representation of the rewards and states arrays.
