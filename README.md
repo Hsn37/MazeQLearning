@@ -5,7 +5,7 @@ You can change the theme of the maze, customize the maze, choose the location of
 
 Dependencies:
 
-`pip install pyglet tkinter matplotlib numpy`
+`pip install pyglet matplotlib numpy`
 
 ![image](imgs/ql1.jpeg)
 ![image](imgs/ql2.jpeg)
